@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  url: 'https://ec2-stage.nivitzhaky.com/api'
+  url: 'https://ec2-stage.avimich.com/api'
 
 };
 
